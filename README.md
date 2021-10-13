@@ -18,3 +18,8 @@ Don't source this, because its not meant to be executed as a bash script. Vim ge
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 2. Adding it to the github repository
  https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
+## Iterm2
+
+1. Download Iterm2
+2. Change theme to solarized following steps: https://michaelheap.com/solarized-with-iterm2/
