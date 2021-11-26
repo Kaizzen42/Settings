@@ -1,3 +1,9 @@
+# Basic Macbook setup
+1. Enable three finger drag from SystemPreferences -> Accessibililty -> PointerControl -> Trackpad Options.
+2. Enable one finger tap, and 2 finger tap for right click from SystemPreferences -> Mouse
+3. Enable fast key repeats from the keyboard settings.
+4. Get firefox.
+
 # Settings
 Vimrc, itermProfile etc.
 
