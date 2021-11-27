@@ -8,6 +8,12 @@
 # Settings
 Vimrc, itermProfile etc.
 
+## Homebrew
+Follow instructions here https://treehouse.github.io/installation-guides/mac/homebrew 
+```
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
 ## Iterm2
 1. Download Iterm2 https://iterm2.com/downloads.html
 2. Change theme to solarized after the VIM settings, following steps: https://michaelheap.com/solarized-with-iterm2/
