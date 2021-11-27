@@ -3,9 +3,15 @@
 2. Enable one finger tap, and 2 finger tap for right click from SystemPreferences -> Mouse
 3. Enable fast key repeats from the keyboard settings.
 4. Get firefox.
+5. Get Paste.
 
 # Settings
 Vimrc, itermProfile etc.
+
+## Iterm2
+1. Download Iterm2 https://iterm2.com/downloads.html
+2. Change theme to solarized after the VIM settings, following steps: https://michaelheap.com/solarized-with-iterm2/
+
 
 ## VIM Steps:
 1. Install the pathogen package manager:
@@ -25,7 +31,3 @@ https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generati
 2. Adding it to the github repository
  https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 
-## Iterm2
-
-1. Download Iterm2
-2. Change theme to solarized following steps: https://michaelheap.com/solarized-with-iterm2/
