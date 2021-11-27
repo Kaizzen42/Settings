@@ -9,9 +9,11 @@
 Vimrc, itermProfile etc.
 
 ## Homebrew
-Follow instructions here https://treehouse.github.io/installation-guides/mac/homebrew 
 ```
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/karanmatnani/.profile
+eval "$(/opt/homebrew/bin/brew shellenv)"
 ```
 
 ## Iterm2
