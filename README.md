@@ -39,3 +39,7 @@ https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generati
 2. Adding it to the github repository
  https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 
+
+## Optionally, install zsh and power10K theme
+https://github.com/romkatv/powerlevel10k#oh-my-zsh
+
