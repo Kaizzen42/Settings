@@ -41,5 +41,15 @@ https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generati
 
 
 ## Optionally, install zsh and power10K theme
+Refer https://gist.github.com/tzutalin/0afaad9a176960b2a27f35b7a264447a
+
 https://github.com/romkatv/powerlevel10k#oh-my-zsh
+
+Custom plugins
+```
+cd ~/.oh-my-zsh/custom/plugins
+git clone https://github.com/zsh-users/zsh-syntax-highlighting
+git clone https://github.com/zsh-users/zsh-autosuggestions
+
+```
 
