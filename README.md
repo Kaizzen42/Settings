@@ -31,6 +31,21 @@ curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
     https://github.com/altercation/vim-colors-solarized
 3. Copy the code from the vimrc into ~/.vimrc.
 
+```
+set ruler
+set cursorline
+set number
+execute pathogen#infect()
+syntax on
+filetype plugin indent on
+"" Solarized stuff
+syntax enable
+let g:solarized_termcolors=256
+set background=dark
+colorscheme solarized
+set ts=4 sw=4
+```
+
 Don't source this, because its not meant to be executed as a bash script. Vim gets it.
 
 ## Setting up SSH for Git
