@@ -67,4 +67,12 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting
 git clone https://github.com/zsh-users/zsh-autosuggestions
 
 ```
+Note: If your brew installation is not found after moving to zsh, add the following to your ~/.zshrc
+```
+eval $(/opt/homebrew/bin/brew shellenv)
+```
 
+## Install Tree
+```
+brew install tree
+```
